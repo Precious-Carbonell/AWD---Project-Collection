@@ -3,11 +3,11 @@
 
 This repository contains the landing page for a collection of projects I completed in my Advanced Web Design (AWD) class.
 
-## Lessons Learned
+## 💡 Lessons Learned
 
 The projects showcase various web development skills using HTML, CSS, JavaScript, Bootstrap, and DOM manipulation.
 
-## Projects
+## 💼 Projects
 
 - Background Animation: A creative and visually appealing background animation to enhance the user experience.
 
@@ -21,7 +21,7 @@ The projects showcase various web development skills using HTML, CSS, JavaScript
 
 - Cute Calculator: A visually appealing and functional calculator designed with user-friendliness in mind.
 
-## Tech
+## 🖥️ Tech
 
 **HTML:** The foundation for structuring the web page content.
 
@@ -32,3 +32,9 @@ The projects showcase various web development skills using HTML, CSS, JavaScript
 **Bootstrap:** A popular CSS framework for creating responsive layouts and enhancing development efficiency.
 
 **DOM Manipulation:** Techniques used to dynamically modify the structure and content of the page.
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://precious-carbonell.github.io/Resume/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/precious-angeline-carbonell-219015298/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aenjils/)
+
